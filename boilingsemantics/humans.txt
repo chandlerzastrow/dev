@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Developer: Chandler Zastrow
+    Twitter: @CZSwerv
+    Website: chandlerzastrow.com
+
+# THANKS
+
+    World Wide Web
+   
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
