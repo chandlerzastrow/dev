@@ -1,0 +1,40 @@
+.icon-sprite, .icon-lightning, .icon-spinner {
+  background-image: url('../img/icon-s3801544e4f.png');
+  background-repeat: no-repeat;
+}
+
+.icon-lightning {
+  background-position: 0 -100px;
+}
+.icon-lightning:hover, .icon-lightning.lightning-hover {
+  background-position: 0 0;
+}
+
+.icon-spinner {
+  background-position: 0 -300px;
+}
+.icon-spinner:hover, .icon-spinner.spinner-hover {
+  background-position: 0 -200px;
+}
+
+i {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  padding: 10px;
+}
+li a {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+}
+li a span {
+  position: absolute;
+  top: -9999em;
+  left: -99999em;
+}
